@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-touch",
+  "title": "touch",
+  "keywords": "touch, esp32, esp8266, arduino",
+  "description": "touch plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-touch/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-touch/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
